@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{25CC5AD0-E027-43FD-A8DA-9CAF5F09A7A4}</ProjectGuid>
+    <ProjectGuid>{4534B918-F0FA-4762-9236-86ED20D0B704}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My2_D3DTimingAndAnimation</RootNamespace>
+    <RootNamespace>My3_D3DFrame</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -80,7 +80,7 @@
     <ClCompile Include="..\Common\D3D11App.cpp" />
     <ClCompile Include="..\Common\D3D11Util.cpp" />
     <ClCompile Include="..\Common\GameTimer.cpp" />
-    <ClCompile Include="2_D3DTimingAndAnimation.cpp" />
+    <ClCompile Include="3_D3DFrame.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Common\D3D11App.h" />

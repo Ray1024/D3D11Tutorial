@@ -14,20 +14,20 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="Common">
-      <UniqueIdentifier>{bd088b54-482d-4434-bcb8-508efe5d8d81}</UniqueIdentifier>
+      <UniqueIdentifier>{44ff4496-75db-47d0-b2e8-b9f9b5a3444e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2_D3DTimingAndAnimation.cpp">
+    <ClCompile Include="3_D3DFrame.cpp">
       <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\Common\GameTimer.cpp">
-      <Filter>Common</Filter>
     </ClCompile>
     <ClCompile Include="..\Common\D3D11App.cpp">
       <Filter>Common</Filter>
     </ClCompile>
     <ClCompile Include="..\Common\D3D11Util.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Common\GameTimer.cpp">
       <Filter>Common</Filter>
     </ClCompile>
   </ItemGroup>

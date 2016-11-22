@@ -32,7 +32,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE prevInstance,
 TestApp::TestApp(HINSTANCE hInstance)
 	: D3D11App(hInstance)
 {
-	m_mainWndCaption = L"2_D3DTimingAndAnimation";
+	m_mainWndCaption = L"3_D3DFrame";
 }
 
 void TestApp::UpdateScene(float dt)

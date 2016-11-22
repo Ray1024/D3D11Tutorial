@@ -8,7 +8,7 @@
 #ifndef D3D11App_H
 #define D3D11App_H
 
-#include "d3dUtil.h"
+#include "D3D11Util.h"
 #include "GameTimer.h"
 #include <string>
 

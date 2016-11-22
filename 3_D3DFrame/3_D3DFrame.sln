@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3_D3DFrame", "3_D3DFrame.vcxproj", "{4534B918-F0FA-4762-9236-86ED20D0B704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4534B918-F0FA-4762-9236-86ED20D0B704}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4534B918-F0FA-4762-9236-86ED20D0B704}.Debug|Win32.Build.0 = Debug|Win32
+		{4534B918-F0FA-4762-9236-86ED20D0B704}.Release|Win32.ActiveCfg = Release|Win32
+		{4534B918-F0FA-4762-9236-86ED20D0B704}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

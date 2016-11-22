@@ -10,3 +10,9 @@ This project show how to initialize Direct3D. </br>
 Article Link : http://www.cnblogs.com/Ray1024/p/6048842.html
 
 ## 2_D3DTimingAndAnimation
+This project is about game timer in Direct3D. </br>
+Article Link : http://www.cnblogs.com/Ray1024/p/6085853.html
+
+## 3_D3DFrame
+This project is about application frame of Direct3D. </br>
+Article Link : http://www.cnblogs.com/Ray1024/p/6087921.html
