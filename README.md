@@ -7,7 +7,7 @@ Article Link : http://www.cnblogs.com/Ray1024/p/6048842.html
 
 ## 1_D3DInit
 This project show how to initialize Direct3D. </br>
-Article Link : http://www.cnblogs.com/Ray1024/p/6048842.html
+Article Link : http://www.cnblogs.com/Ray1024/p/6084609.html
 
 ## 2_D3DTimingAndAnimation
 This project is about game timer in Direct3D. </br>
