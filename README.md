@@ -20,3 +20,6 @@ Article Link : http://www.cnblogs.com/Ray1024/p/6087921.html
 ## 4_D3DBoxDemo
 This project is about rendering a box demo in Direct3D. </br>
 Article Link : http://www.cnblogs.com/Ray1024/p/6093773.html
+
+## 4_D3DBoxDemo_Effect
+Use fxc.exe to compile '.fx' file during the project building in the IDE.
