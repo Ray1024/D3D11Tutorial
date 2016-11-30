@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_D3DHillsDemo", "05_D3DHillsDemo.vcxproj", "{F689D5B9-E900-4BDB-B313-D79E7E5B0E52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F689D5B9-E900-4BDB-B313-D79E7E5B0E52}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F689D5B9-E900-4BDB-B313-D79E7E5B0E52}.Debug|Win32.Build.0 = Debug|Win32
+		{F689D5B9-E900-4BDB-B313-D79E7E5B0E52}.Release|Win32.ActiveCfg = Release|Win32
+		{F689D5B9-E900-4BDB-B313-D79E7E5B0E52}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
