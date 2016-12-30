@@ -1,29 +1,21 @@
 # D3D11Tutorial
-My codes in learning Direct3D11.
+这个仓库包含了我学习Direct3D过程中的笔记代码。</br>
+Direct3D版本：11</br>
+sdk版本：DXSDK_Jun10.exe</br>
+IDE：vs2010</br>
 
-## 00_D3DSetupDevelopmentEnvironment
-DEMO PROJECT SETUP IN VISUAL STUDIO 2010.</br>
-Article Link : http://www.cnblogs.com/Ray1024/p/6048842.html
+##联系方式
+QQ：253293026</br>
+博客：http://www.cnblogs.com/Ray1024/
 
-## 01_D3DInit
-This project show how to initialize Direct3D. </br>
-Article Link : http://www.cnblogs.com/Ray1024/p/6084609.html
+##仓库简介
 
-## 02_D3DTimingAndAnimation
-This project is about game timer in Direct3D. </br>
-Article Link : http://www.cnblogs.com/Ray1024/p/6085853.html
-
-## 03_D3DFrame
-This project is about application frame of Direct3D. </br>
-Article Link : http://www.cnblogs.com/Ray1024/p/6087921.html
-
-## 04_D3DBoxDemo
-This project is about rendering a box demo in Direct3D. </br>
-Article Link : http://www.cnblogs.com/Ray1024/p/6093773.html
-
-## 04_D3DBoxDemo_Effect
-Use fxc.exe to compile '.fx' file during the project building in the IDE.</br>
-Article Link : http://www.cnblogs.com/Ray1024/p/6101284.html
-
-## 05_D3DHillsDemo
-This project is about rendering hills demo in Direct3D. 
+|项目名称|项目介绍|
+| ----|----|
+| 00_D3DSetupDevelopmentEnvironment|[开发环境配置](http://www.cnblogs.com/Ray1024/p/6048842.html)|
+| 01_D3DInit|[Direct3D11初始化](http://www.cnblogs.com/Ray1024/p/6084609.html)|
+| 02_D3DTimingAndAnimation|[计时和动画](http://www.cnblogs.com/Ray1024/p/6085853.html)|
+| 03_D3DFrame|[演示程序框架](http://www.cnblogs.com/Ray1024/p/6087921.html)|
+| 04_D3DBoxDemo|[绘图基础——彩色立方体的绘制](http://www.cnblogs.com/Ray1024/p/6093773.html)|
+| 04_D3DBoxDemo_Effect|[Effects介绍](http://www.cnblogs.com/Ray1024/p/6101284.html)|
+| 05_D3DHillsDemo|绘制山丘示例|
