@@ -1,4 +1,4 @@
-Direct3D版本# D3D11Tutorial
+# D3D11Tutorial
 这个仓库包含了我学习Direct3D过程中的笔记代码。</br>
 教程：http://www.cnblogs.com/Ray1024/</br>
 
