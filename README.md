@@ -1,14 +1,13 @@
-# D3D11Tutorial
+Direct3D版本# D3D11Tutorial
 这个仓库包含了我学习Direct3D过程中的笔记代码。</br>
+教程：http://www.cnblogs.com/Ray1024/</br>
+
 Direct3D版本：11</br>
-sdk版本：DXSDK_Jun10.exe</br>
+SDK版本：DXSDK_Jun10.exe</br>
 IDE：vs2010</br>
 
-##联系方式
-QQ：253293026</br>
-博客：http://www.cnblogs.com/Ray1024/
 
-##仓库简介
+## 仓库简介
 
 |项目名称|项目介绍|
 | ----|----|
@@ -19,3 +18,6 @@ QQ：253293026</br>
 | 04_D3DBoxDemo|[绘图基础——彩色立方体的绘制](http://www.cnblogs.com/Ray1024/p/6093773.html)|
 | 04_D3DBoxDemo_Effect|[Effects介绍](http://www.cnblogs.com/Ray1024/p/6101284.html)|
 | 05_D3DHillsDemo|绘制山丘示例|
+
+## 联系方式
+QQ：253293026
