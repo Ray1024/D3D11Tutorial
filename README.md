@@ -19,5 +19,6 @@ IDE：vs2010</br>
 | 04_D3DBoxDemo_Effect|[Effects介绍](http://www.cnblogs.com/Ray1024/p/6101284.html)|
 | 05_D3DHillsDemo|绘制山丘示例|
 
-## 联系方式
-QQ：253293026
+## 公众号
+关注公众号:江湖码客Mark，有任何问题都可解答。</br>
+![公众号](https://github.com/Ray1024/Direct2D/blob/master/images/qrcode_for_gh_16bcaf1d516e_258.jpg)
